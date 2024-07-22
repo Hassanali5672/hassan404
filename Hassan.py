@@ -1,2 +1,2 @@
-print("Free Tool Is Of ")
+print("Free Tool Is On ")
 
